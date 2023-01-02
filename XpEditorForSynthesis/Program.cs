@@ -4,6 +4,7 @@ using Mutagen.Bethesda.Skyrim;
 
 namespace XpEditorForSynthesis
 {
+
     public class Program
     {
         static Lazy<Settings> Settings = null!;
