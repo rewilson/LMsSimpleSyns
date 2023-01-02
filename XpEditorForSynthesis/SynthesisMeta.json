@@ -1,8 +1,8 @@
 {
   "Nickname": "",
   "Visibility": "Visible",
-  "OneLineDescription": "",
-  "LongDescription": "",
+  "OneLineDescription": "Modify how much skill XP you gain from using each skill, and how much is needed to advance to the next level.",
+  "LongDescription": "This is just a Synthesis implemetation of tjhm4's XP Editor zEdit script: https://www.nexusmods.com/skyrimspecialedition/mods/24356'",
   "PreferredAutoVersioning": "Default",
   "RequiredMods": [],
   "TargetedReleases": [
